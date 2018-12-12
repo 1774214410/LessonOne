@@ -4,7 +4,6 @@ import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
 
 /**
- * 用户视图
  * @Author: liuzw     Email :a1774214410@163.com
  * @Date: 2018/10/20 15:58
  */
